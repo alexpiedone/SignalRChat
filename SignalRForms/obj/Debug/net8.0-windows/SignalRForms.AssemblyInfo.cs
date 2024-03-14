@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f42821f065d198241f8598244e4d27296f0438f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

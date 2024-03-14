@@ -22,7 +22,7 @@ namespace SignalRChat.Hubs
 
             return base.OnConnectedAsync();
         }
-
+         
 
         public async Task Login(string username)
         {
