@@ -26,7 +26,7 @@ namespace SignalRChat.Hubs
 
         public async Task Login(string username)
         {
-            if (_allowedUsers.Contains(username))
+            if (_allowedUsers.Contains(username)) 
                 await Clients.Caller.SendAsync("LoginResponse", _jwt);
         }
 
