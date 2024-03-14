@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/signalrchat.metadata.v7.bin
+/.vs/ProjectEvaluation/signalrchat.projects.v7.bin
+/.vs/SignalRChat/config/applicationhost.config
+/.vs/SignalRChat/DesignTimeBuild/.dtbcache.v2
+/.vs/SignalRChat/FileContentIndex/1a9ad33f-ce89-475f-9153-bdad82f52cc1.vsidx
+/.vs/SignalRChat/FileContentIndex/18db6634-47bb-4f61-abd7-1f0f03ea6cd5.vsidx
+/.vs/SignalRChat/FileContentIndex/54dfeb6e-9cad-4ed3-bd53-cfa509bde92b.vsidx
+/.vs/SignalRChat/FileContentIndex/d2fd5b16-023b-426d-95ae-d75acd293def.vsidx
+/.vs/SignalRChat/FileContentIndex/d9968b97-0aed-40d9-8e90-13549699e08b.vsidx
+/.vs/SignalRChat/v17/.futdcache.v2
+/.vs/SignalRChat/v17/.suo
